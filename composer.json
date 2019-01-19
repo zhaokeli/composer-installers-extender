@@ -23,6 +23,10 @@
     },
     "extra":
     {
+        "branch-alias":
+        {
+            "dev-master": "1.0.x-dev"
+        }
         "class": "mokuyu\\ComposerInstallersExtender\\Plugin"
     },
     "require":
